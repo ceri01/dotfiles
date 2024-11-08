@@ -1,1 +1,2 @@
-*Hyprland*: [justinmdickey](https://github.com/justinmdickey)
+# Credits
+_Hyprland_: [justinmdickey](https://github.com/justinmdickey)
