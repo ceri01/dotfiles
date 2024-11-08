@@ -1,1 +1,1 @@
-*Hyprland*: (justinmdickey)[https://github.com/justinmdickey]
+*Hyprland*: [justinmdickey](https://github.com/justinmdickey)
